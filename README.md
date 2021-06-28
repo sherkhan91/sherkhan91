@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Python and Django back end application along with machine learning projects
 - 📫 How to reach me, drop me an email sher9khan@gmail or call me +31626817705
 - LinkedIn: https://www.linkedin.com/in/sher-khan-mari-860971158/
+- Fiverr: https://www.fiverr.com/sher9khan
 
 <!---
 sherkhan91/sherkhan91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
